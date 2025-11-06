@@ -1,2 +1,2 @@
 # Ejercicio del Sprint 7
-Este es un proyecto de práctica para la elaboracipón de un aplicación con Streamlit
+Este es un proyecto de práctica para la elaboración de un aplicación con Streamlit
